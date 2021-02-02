@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A Fullstack developer from Northern Ireland</h3>
 
-- 📫 How to reach me **benjamesjardine@gmail.com**
+📫 How to reach me **benjamesjardine@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjardine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjardine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ben-jardine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjardine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
